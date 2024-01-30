@@ -1,0 +1,15 @@
+"additionalProperties": {
+            "crawlRepository": "false",
+            "crawlRepositoryDocuments": "false",
+            "crawlIssue": "false",
+            "crawlIssueComment": "false",
+            "crawlIssueCommentAttachment": "false",
+            "crawlPullRequest": "true",
+            "crawlPullRequestComment": "true",
+            "crawlPullRequestCommentAttachment": "true",
+            "repositoryFilter": ["BranchFilterRepo"],
+            "branchFilter": ["TestSwap_Fiilter",
+            "isCrawlAcl": "false",
+            "fieldForUserId": "email"
+}
+
